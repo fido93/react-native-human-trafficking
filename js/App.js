@@ -79,9 +79,13 @@ import AdvSegment from "./components/segment/segmentTab";
 import SimpleDeck from "./components/deckswiper/simple";
 import AdvancedDeck from "./components/deckswiper/advanced";
 
+import Success from "./components/anatomy/success";
+
 const AppNavigator = StackNavigator(
     {
         Drawer: { screen: Drawer },
+
+        Success: { screen: Success },
 
         Header1: { screen: Header1 },
         Header2: { screen: Header2 },

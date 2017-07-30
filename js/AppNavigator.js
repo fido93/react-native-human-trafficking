@@ -43,6 +43,9 @@ import NHCheckbox from "./components/checkbox/";
 import NHDeckSwiper from "./components/deckswiper/";
 import NHFab from "./components/fab/";
 import BasicFab from "./components/fab/basic";
+
+import Success from "./components/anatomy/success";
+
 import MultipleFab from "./components/fab/multiple";
 import NHForm from "./components/form/";
 import FixedLabel from "./components/form/fixedLabel";
